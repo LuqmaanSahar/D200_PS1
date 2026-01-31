@@ -1,0 +1,9 @@
+name: d200_ps1_py
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - pytorch
+  - ipykernel
+  - jupyter
+prefix: /Users/lsahar/miniconda3/envs/d200_ps1_py
