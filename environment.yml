@@ -7,4 +7,5 @@ dependencies:
   - ipykernel
   - jupyter
   - matplotlib
+  - torchvision
 prefix: /Users/lsahar/miniconda3/envs/d200_ps1_py
